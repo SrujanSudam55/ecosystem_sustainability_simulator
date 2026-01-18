@@ -1,4 +1,4 @@
-# Ecosystem Sustainability Simulator
+# Ecosystem Sustainability Simulator - McKinsey Discontinued test in Solve
 
 ## Overview
 
