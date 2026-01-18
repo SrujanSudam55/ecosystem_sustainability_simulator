@@ -137,9 +137,11 @@ It is a **systems modeling and reasoning artifact**.
    pip install pandas openpyxl
 2. Place input.xlsx in the project directory.
 
-3. Run: python solve_ecosystem.py
+3. Run:
+   ```bash
+   python solve_ecosystem.py
 
-4. Review results in solve_output.xlsx.
+5. Review results in solve_output.xlsx.
 
 ## Notes
 
